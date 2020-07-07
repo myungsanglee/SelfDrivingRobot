@@ -22,7 +22,4 @@ OS | Ubuntu 18.04, ROS Melodic
 객체 인식 모델 | SSD MobileNet v2 Quantized
  
  ## 프로젝트 결과
- > 비디오 파일: [바로가기](./video/)
- <div>
- <img src="https://user-images.githubusercontent.com/55565351/86766106-08db6200-c085-11ea-969b-89485ef1dd6a.jpg" width="300" height="300"/>
- </div>
+ [![img](http://img.youtube.com/vi/K70YHFUSsn0/0.jpg)](https://youtu.be/K70YHFUSsn0?t=0s "img")
