@@ -6,7 +6,6 @@
 <img src="https://user-images.githubusercontent.com/55565351/87013575-d016c680-c205-11ea-959f-a0c94a8997f4.jpg" width="300" height="300"/>
 </div>
 
-
 ## 프로젝트 개요
 * OpenCV를 이용한 실시간 Lane Detection
 * TensorFlow Lite와 Google Coral을 이용한 실시간 Object Detection 
